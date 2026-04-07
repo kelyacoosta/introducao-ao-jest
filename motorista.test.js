@@ -2,7 +2,7 @@
 // ele deverá receber a idade do usuário e retornar um objeto no seguinte formato 
 // { podeDirigir: true || false } 
 
-const motoristaa = require('./motorista');
+const motorista = require('./motorista');
 
 describe('Função Verificar Carteira de Motorista', () => {
     test('Quando o usuário tiver 18 anos ou mais, deverá retornar true', () => {
