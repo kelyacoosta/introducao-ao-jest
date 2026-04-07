@@ -9,4 +9,4 @@ function verificarCarteiraMotorista(idade) {
     return { podeDirigir: false };
 }
 
-module.exports = verificarCarteiraMotorista
+module.exports = verificarCarteiraMotorista 
